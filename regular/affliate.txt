@@ -1,0 +1,6 @@
+snapdeal
+?utm_source=aff_prog&utm_campaign=afts&offer_id=<Offer_ID>&aff_id=<Your_Affiliate_ID>
+
+
+insert into products (title,imgurl,productBrand,categories,flip_price,flip_stock,flip_url) values(Nintendo DS,http://img6a.flixcart.com//image/gamingconsole/p/6/s/400x400-imad7cpwaubhygw9.jpeg;http://img6a.flixcart.com//image/gamingconsole/p/6/s/75x75-imad7cpwaubhygw9.jpeg;http://img6a.flixcart.com//image/gamingconsole/p/6/s/275x275-imad7cpwaubhygw9.jpeg;http://img5a.flixcart.com//image/gamingconsole/p/6/s/125x125-imad7cpwaubhygw9.jpeg;http://img5a.flixcart.com//image/gamingconsole/p/6/s/original-imad7cpwaubhygw9.jpeg;http://img5a.flixcart.com//image/gamingconsole/p/6/s/40x40-imad7cpwaubhygw9.jpeg;http://img6a.flixcart.com//image/gamingconsole/p/6/s/100x100-imad7cpwaubhygw9.jpeg;http://img6a.flixcart.com//image/gamingconsole/p/6/s/200x200-imad7cpwaubhygw9.jpeg;,Nintendo,Electronics>Entertainment>Gaming consoles,7990.0,false,http://dl.flipkart.com/dl/nintendo-ds/p/itmczc2jgj72vche?pid=GMCD7CHEAGY3DP6S&affid=mohindhar)
+
